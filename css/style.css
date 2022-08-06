@@ -62,7 +62,7 @@ main{
     width: 100vw;
     height: 100vw;
     background-color: lavenderblush;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../img/AdobeStock_289927915-scaled-e1577725809538.jpeg);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url('../img/AdobeStock_289927915-scaled-e1577725809538.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
